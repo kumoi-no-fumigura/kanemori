@@ -1,10 +1,15 @@
 {
- "work": "兼盛集",
+ "work": "兼盛集（群書類従本）",
  "work_id": "gunsho09-kanemori",
  "repo": "kumoi-no-fumigura/kanemori",
  "yomi": "かねもりしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安中期（10世紀）",
+  "author": "平兼盛（?〜990）",
+  "desc": "三十六歌仙の一人、平兼盛の家集。冒頭に御幸を寿ぐ序文を置き、屏風歌や女との贈答の歌を収める。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -2449,6 +2454,6 @@
   "poems": 214,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
